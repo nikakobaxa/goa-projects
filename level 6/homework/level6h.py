@@ -21,7 +21,3 @@
 # amount = int(input("Enter the quantity: "))
 
 # print(amount * item_price)
-
-car_type = "sedan"
-print(sedan)
-
