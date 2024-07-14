@@ -52,12 +52,14 @@
 
 # print(num1 < 2)
 
-num1 = int(input("Enter your number: "))
-num2 = int(input("Enter your second number: "))
+# num1 = int(input("Enter your number: "))
+# num2 = int(input("Enter your second number: "))
 
-print(num1 < num2 )
-print(num1 > num2 )
-print(num1 == num2 )
-print(num1 != num2 )
-print(num1 >= num2 )
-print(num1 <= num2 )
+# print(num1 < num2 )
+# print(num1 > num2 )
+# print(num1 == num2 )
+# print(num1 != num2 )
+# print(num1 >= num2 )
+# print(num1 <= num2 )
+
+
