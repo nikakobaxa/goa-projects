@@ -48,7 +48,3 @@
 #     print(count)
 #     count -= 1
 
-a = 5
-b = True
-c = a > 8
-d = b or c
