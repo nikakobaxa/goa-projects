@@ -77,3 +77,9 @@ False #არ არის ჭეშმარიტი
 # print(reqruit_goal == goal or reqruit_assist == assist)
 # print(goal + assist)
 
+
+
+# ball = 10
+
+# while ball <=11:
+#     print("Goal!")
