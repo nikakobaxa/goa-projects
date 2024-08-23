@@ -84,9 +84,9 @@ False #არ არის ჭეშმარიტი
 # while ball <=11:
 #     print("Goal!")
 
-if heart_rate < 40: 
-  print("Low heart rate")
-elif heart_rate >= 180: 
-  print("High heart rate")
-else:
-  print("Normal range")
+# if heart_rate < 40: 
+#   print("Low heart rate")
+# elif heart_rate >= 180: 
+#   print("High heart rate")
+# else:
+#   print("Normal range")
