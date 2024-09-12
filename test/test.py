@@ -90,3 +90,19 @@ False #არ არის ჭეშმარიტი
 #   print("High heart rate")
 # else:
 #   print("Normal range")
+
+
+
+# def mwvadi(string):
+#     count = 0
+#     new_string = ""
+
+#     for i in string:
+#         if count % 3 == 0:
+#             new_string += i.upper()
+#         else:
+#             new_string += i
+#         count += 1
+#         print(new_string)
+
+# mwvadi("nika")

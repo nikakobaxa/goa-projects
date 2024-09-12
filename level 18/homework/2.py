@@ -116,19 +116,19 @@
 # print(result)
 
 
-def zebra(string):
-    count = 0
-    new_string = ""
+# def zebra(string):
+#     count = 0
+#     new_string = ""
 
-    for i in string:
-        if count % 2 == 0:
-           new_string += i.upper()
-        else:
-            new_string += i
-        count += 1
-        print(new_string)
+#     for i in string:
+#         if count % 2 == 0:
+#            new_string += i.upper()
+#         else:
+#             new_string += i
+#         count += 1
+#         print(new_string)
 
-zebra("hello")        
+# zebra("hello")        
 
 
 
@@ -139,13 +139,14 @@ zebra("hello")
 
 # print(x)
 
+def squared_elements(numbers):
+    squared_list = [x ** 2  for x in numbers]
+    return squared_list
 
-# mylist = [10, 30, 40, 50]
 
-# mylist.append(70)
-# mylist.append(60)
-# mylist.append(80)
-# print(mylist)
+input_list = [3,12,5,2,6]
+output_list = squared_elements(input_list)
+print(output_list)
 
 # str = "hello world"
 
