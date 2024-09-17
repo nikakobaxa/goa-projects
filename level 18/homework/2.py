@@ -139,14 +139,13 @@
 
 # print(x)
 
-def squared_elements(numbers):
-    squared_list = [x ** 2  for x in numbers]
-    return squared_list
+# def squared_elements(numbers):
+#     squared_list = [x ** 2  for x in numbers]
+#     return squared_list
 
-
-input_list = [3,12,5,2,6]
-output_list = squared_elements(input_list)
-print(output_list)
+# input_list = [3,12,5,2,6]
+# output_list = squared_elements(input_list)
+# print(output_list)
 
 # str = "hello world"
 
