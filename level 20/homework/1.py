@@ -21,19 +21,15 @@
 # print(result)
 
 # def manual_min(lst):
-#     if not lst:
-#         return None
-         
-#     min_value = lst[0]
-#     for num in lst:
-#         if num < min_value:
-#             min_value = num
+#     min_num = lst[0]
 
-#     return min_value
+#     for i in lst:
+#         if min_num > i:
+#            min_num = i
 
-# my_list = [1, 2, 3, 4, 5]
-# result = manual_min(my_list)
-# print(result)
+#     return min_num
+
+# print(manual_min([1,2,5,7,8,9,100,-90]))
 
 
 

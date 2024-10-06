@@ -268,3 +268,20 @@ False #არ არის ჭეშმარიტი
 #       return (love_timmy % 2 == 0) != (love_sara % 2 == 0)
      
 # print(timmy_sara(4,3))
+
+# def manual_max(lst):
+#     max_num = lst[0]
+
+#     for i in lst:         
+#          if max_num < i:
+#            max_num = i
+#     return max_num
+
+# print(manual_max([1,2,5,7,8,9,100,-90]))
+
+# def paperwork(n, m):
+#     if n < 0 or m < 0:
+#         return 0
+#     return n * m
+
+# print(paperwork(10,10))
