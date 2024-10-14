@@ -1,0 +1,21 @@
+.greet{
+    text-decoration: wavy;
+    text-decoration-line: overline;
+    color: red;
+}
+.greet1{
+    text-decoration: dashed;
+    text-decoration-line: underline;
+    color: red;
+}
+.greet2{
+    text-align: center;
+    text-decoration-line: overline;
+}
+.greet3{
+    text-transform: lowercase;
+    text-transform: uppercase;
+}
+.greet4{
+    text-shadow: 2px 2px red;
+}

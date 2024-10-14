@@ -1,0 +1,22 @@
+.para1{
+    color: red;
+    text-decoration: dashed;
+    text-decoration-line: overline;
+}
+
+.para2{
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
+
+.para3{
+    text-align: right;
+    text-decoration: wavy;
+    text-decoration-line: underline;
+    color: purple;
+}
+
+.para4{
+    text-shadow: 2px 1px;
+    color: darkred;
+}
