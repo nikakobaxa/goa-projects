@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik+Wet+Paint&family=Tiny5&display=swap');
+
+.nika{
+    font-family:"Danfo", Verdana, fantasy;
+}
+
+.luka{
+    font-family:"Tiny5", Georgia, Verdana;
+}
+
+.gio{
+    font-family:"Rubik Wet Paint", fantasy, Georgia;
+}
+
+
+.link-one{
+    color: green;
+    text-decoration: none;
+}
+
+.link-one:link{
+    color: green;
+}
+
+.link-one:visited{
+    color: black;
+}
+
+.link-one:hover{
+    color: blue;
+}
+
+.link-one:active{
+    color: red;
+}
+
+.link-two{
+    color: red;
+    text-decoration: none;
+}
+
+.link-two:link{
+    color: red;
+}
+
+.link-two:visited{
+    color: blue;
+}
+
+.link-two:hover{
+    color: green;
+}
+
+.link-two:active{
+    color: purple;
+}
+
+.link-three{
+    color: black;
+    text-decoration: none;
+}
+
+.link-three:link{
+    color: black;
+}
+
+.link-three:visited{
+    color: green;
+}
+
+.link-three:hover{
+    color: darkblue;
+}
+
+.link-three:active{
+    color: darkred;
+}
+
+#name{
+    color: darkblue;
+}
+
+#name:link{
+    color: darkblue;
+}
+
+#name:hover{
+    color: darkred;
+}
+
+#name:active{
+    color: darkgoldenrod;
+    font-size: 25px;
+}
