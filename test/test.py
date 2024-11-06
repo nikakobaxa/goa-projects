@@ -285,3 +285,156 @@ False #არ არის ჭეშმარიტი
 #     return n * m
 
 # print(paperwork(10,10))
+
+# def greet(name):
+#     return "hello" + " " + name
+
+# print(greet("nika"))
+
+# def sum(a,b):
+#     return a + b
+
+# print(sum(10,20))
+
+
+# def to_string(number):
+#      return type(str(number))
+ 
+# print(to_string(10))
+
+# def to_integer(string):
+#     return type(int(string))
+
+# print(to_integer("30"))
+
+# def number(a):
+#     return a + 5
+
+# print(number(10))
+
+# def number(a,b):
+#     return a * b
+
+# print(number(20,30))
+
+
+# def number(list):
+#     return len(list)
+
+# print(number("gamarjoba"))
+
+# def number(a,b):
+#     print(a + b)    
+#     print(a - b)
+#     print(a * b)
+#     print(a // b)
+
+# number(10,20)
+
+# number = 0
+# number2 = 10
+
+# while number < 100:
+#     number += number2
+    
+
+# print(number)
+
+
+# def number1(number,number2):
+    
+#     while number < 100:
+#         number += number2
+
+#     return number
+# print(number1(0,10))
+
+
+# def number(number):
+    
+
+#   if number % 2 == 0:
+#      return "odd"
+#   else:
+#      return "even"
+  
+# print(number(4))
+# print(number(5))
+
+
+# def max_manual(list):
+#    return max(list)
+
+# print(max_manual([1,2,5,6,10]))
+
+# def min_manual(list):
+#    return min(list)
+
+# print(min_manual([1,20,30,2]))
+
+# def sum_manual(list):
+#    return sum(list)
+
+# print(sum_manual([10,20,30]))
+
+# def string(list):
+#    return list[::-1]
+
+# print(string([10,"gamarjoba"]))
+
+
+# list = ["gamarjoba","nika","cotne"]
+
+# for i in list:
+#    if len(i) > len(list[0]):
+#       list[0] = i
+
+# print(list[0])
+
+# def number(list):
+#     for i in list:
+#         if len(i) > len(list[0]):
+#             list[0] = i
+#     return list[0]
+
+# print(number(["gamarjoba","nika","cotne"]))       
+
+
+# def string(sityva):
+#    for a in sityva:
+#       if a.isupper():
+#          return a.lower()
+#       else:
+#          return a.upper()
+# print(string("Hello"))
+
+# def integer(number):
+#    if number % 2 == 0:
+#       return True
+#    else:
+#       return False
+   
+# print(integer(3))
+
+# number = int(input("Enter your number: "))
+
+# sum = 1
+
+# for i in range(1, number):
+#     sum *= i
+
+# print(sum)
+
+# def blabla(input):
+#     sum = 1
+#     for i in range(1, input):
+#         sum *= i
+#     return sum
+
+# print(blabla(int(input("Enter your name: "))))
+
+contact = {
+  "name": "John",
+  "company": "Google",
+}
+print(contact["company"])
