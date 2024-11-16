@@ -1,0 +1,40 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+tr:nth-child(even){
+    background-color: grey;
+}
+
+th,td{
+    border: 1px solid black;
+}
+
+.ul,li{
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+input[type="text"]{
+    background-color: red;
+}
+
+input[type="date"]{
+    width: 150px;
+}
+
+input[type="password"]{
+    color: green;
+}
+
+.rounded-corners{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid green;
+    color: white;
+    border-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}

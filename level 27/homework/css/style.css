@@ -1,0 +1,51 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+tr:nth-child(odd){
+    background-color: grey;
+}
+
+th,td{
+    border: 1px solid black;
+}
+
+.square{
+    list-style-type: square;
+}
+
+.square li{
+    position: relative;
+}
+
+.roman{
+    list-style-type: upper-roman;
+    list-style-position: outside;
+}
+
+.roman li{
+    position: relative;
+}
+
+input[type="text"]{
+    background-color: black;
+}
+
+input[type="number"]{
+    border: 2px solid green;
+    border-radius: 25px;
+}
+
+input[type="password"]{
+    background-color: red;
+    color: white;
+}
+
+input[type="submit"]{
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
