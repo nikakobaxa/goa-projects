@@ -11,22 +11,18 @@ th,td{
     border: 1px solid black;
 }
 
-.square{
+ul{
     list-style-type: square;
+    list-style-position: inside;
 }
 
-.square li{
-    position: relative;
-}
 
-.roman{
+ol{
     list-style-type: upper-roman;
     list-style-position: outside;
 }
 
-.roman li{
-    position: relative;
-}
+
 
 input[type="text"]{
     background-color: black;
