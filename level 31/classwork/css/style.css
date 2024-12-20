@@ -1,0 +1,53 @@
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.div3{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.div4{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    position: relative;
+    bottom: 0;
+    left: 0;
+}
+
+
+.div5{
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.div6{
+    width: 250px;
+    height: 250px;
+    background-color: darkblue;
+    position: sticky;
+    left: 300px;
+}
