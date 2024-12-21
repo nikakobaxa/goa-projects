@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inter-uniquifier> {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400, 600, 700;
+    font-style: normal;
+  }
+
+body{
+    height: 100vh;
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent{
+    background-color: hsl(0, 0%, 12%);
+    width: 410px;
+    height: 666px;
+    border: 2px solid hsl(0, 0%, 12%);
+    border-radius: 25px;
+}
+
+.parent .img {
+     width: 30%;
+     margin-left: 130px;
+     margin-top: 30px;
+     border-radius: 50%;
+}
+
+.child{
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+}
+
+.child2{
+    text-align: center;
+    font-size: 22px;
+    color: hsl(75, 94%, 57%);
+}
+
+.paragraph{
+    text-align: center;
+    padding: 35px;
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+}
+
+.parent2{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     gap: 15px;
+}
+
+.div1{
+    border: 1px solid hsl(0, 0%, 20%);
+    padding: 15px;
+    width: 350px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.div2{
+    border: 1px solid hsl(0, 0%, 20%);
+    padding: 15px;
+    width: 350px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.div3{
+    border: 1px solid hsl(0, 0%, 20%);
+    padding: 15px;
+    width: 350px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.div4{
+    border: 1px solid hsl(0, 0%, 20%);
+    padding: 15px;
+    width: 350px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.div5{
+    border: 1px solid hsl(0, 0%, 20%);
+    padding: 15px;
+    width: 350px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
