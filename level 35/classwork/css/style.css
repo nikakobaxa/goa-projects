@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.lexend-deca-uniquifier {
+    font-family: "Lexend Deca", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .big-shoulders-display-uniquifier {
+    font-family: "Big Shoulders Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent0{
+    display: flex;
+}
+
+.parent1{
+    width: 350px;
+    background-color: hsl(31, 77%, 52%);
+    height: 500px;
+    border-radius: 4px;
+}
+
+.parent2{
+    width: 350px;
+    background-color: hsl(184, 100%, 22%);
+    height: 500px;
+    border-radius: 4px;
+}
+
+.parent3{
+    width: 350px;
+    background-color: hsl(179, 100%, 13%);
+    height: 500px;
+    border-radius: 4px;
+}
+
+.parent1 img{
+    margin-left: 45px;
+    margin-top: 54px;
+}
+
+.parent2 img{
+    margin-left: 45px;
+    margin-top: 54px;
+}
+
+.parent3 img{
+    margin-left: 45px;
+    margin-top: 54px;
+}
+
+.parent1 h1{
+    margin-left: 45px;
+    margin-top: 30px;
+    color: hsl(0, 0%, 95%);
+    font-size: 40px;
+}
+
+.parent2 h1{
+    margin-left: 45px;
+    margin-top: 30px;
+    color: hsl(0, 0%, 95%);
+    font-size: 40px;
+}
+
+.parent3 h1{
+    margin-left: 45px;
+    margin-top: 30px;
+    color: hsl(0, 0%, 95%);
+    font-size: 40px;
+}
+
+.parent1 p{
+    margin-left: 45px;
+    margin-top: 40px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 21px;
+}
+
+.parent2 p{
+    margin-left: 45px;
+    margin-top: 40px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 21px;
+}
+
+.parent3 p{
+    margin-left: 45px;
+    margin-top: 40px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 21px;
+}
+
+.parent1 button{
+    margin-left: 45px;
+    margin-top: 90px;
+    width: 133px;
+    padding: 14px;
+    border-radius: 23px;
+    color: hsl(31, 77%, 52%);
+    font-size: 15px;
+    border: 1px solid hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 95%);
+}
+
+.parent2 button{
+    margin-left: 45px;
+    margin-top: 90px;
+    width: 133px;
+    padding: 14px;
+    border-radius: 23px;
+    color: hsl(184, 100%, 22%);
+    font-size: 15px;
+    border: 1px solid hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 95%);
+}
+
+.parent3 button{
+    margin-left: 45px;
+    margin-top: 90px;
+    width: 133px;
+    padding: 14px;
+    border-radius: 23px;
+    color: hsl(179, 100%, 13%);
+    font-size: 15px;
+    border: 1px solid hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 95%);
+}
