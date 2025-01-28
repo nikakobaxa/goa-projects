@@ -433,8 +433,32 @@ False #არ არის ჭეშმარიტი
 
 # print(blabla(int(input("Enter your name: "))))
 
-contact = {
-  "name": "John",
-  "company": "Google",
-}
-print(contact["company"])
+# contact = {
+#   "name": "John",
+#   "company": "Google",
+# }
+# print(contact["company"])
+
+#args, kwargs
+
+# def order_pizza(size, *toppings, **details):
+#     print(f"order a {size} pizza with following toppings:")
+#     for topping in toppings:
+#         print(f"- {toppings}")
+#     print("Details of the order are:")
+#     for key, value in details.items():
+#       print(f"-{key}: {value}")
+    
+
+# order_pizza("Large", "pepperoni", "olivie", delivery=True, tip=5)
+
+#args
+
+# def add(*args):
+#     total = 0
+#     for arg in args:
+#         total += arg
+#     return total
+
+# print(add(1, 2, 3))
+
