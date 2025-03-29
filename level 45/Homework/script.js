@@ -25,5 +25,3 @@ const processor = ["Intel i3", "Intel i7"];
 const storage = [512, 64, 120];
 
 for (let i = 0; i < brands.length; i++);
-for (let i = 0; i < processor.length; i++);
-for (let i = 0; i < storage.length; i++);
